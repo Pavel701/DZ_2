@@ -1,0 +1,15 @@
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\bin\Debug\net6.0\Reshenie.exe
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\bin\Debug\net6.0\Reshenie.deps.json
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\bin\Debug\net6.0\Reshenie.runtimeconfig.json
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\bin\Debug\net6.0\Reshenie.dll
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\bin\Debug\net6.0\Reshenie.pdb
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.csproj.AssemblyReference.cache
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.AssemblyInfoInputs.cache
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.AssemblyInfo.cs
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.csproj.CoreCompileInputs.cache
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.dll
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\refint\Reshenie.dll
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.pdb
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\Reshenie.genruntimeconfig.cache
+D:\Павел\Обучение\Разработчик\ДЗ_2\Reshenie\obj\Debug\net6.0\ref\Reshenie.dll
